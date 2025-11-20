@@ -1,4 +1,4 @@
-[1:03 am, 20/11/2025] AAdarsh Tripathi Cse 17 👌: mport streamlit as st
+import streamlit as st
 import fitz  # PyMuPDF
 import nltk
 import os
@@ -239,3 +239,4 @@ if st.session_state["quiz_data"]:
 # Footer
 st.markdown("---")
 st.caption("Project by: Gaurav Yadav, Mayank Kaushik, Aadarsh Tripathi, Satyam Srivastava [1CSE17]")
+
